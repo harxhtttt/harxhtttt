@@ -1,39 +1,39 @@
-<h1 align="center">Hey, I'm Harshit 👋</h1>
-<h3 align="center">Professional interest-haver, currently in the "figuring it out" phase of life (patent pending).</h3>
+<h1 data-importer="text" align="center">Hey, I'm Harshit</h1>
 
-<br>
+###
 
-## 🛠️ What I Do Know
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+###
 
-Basically enough to build things — and enough to break them in creative new ways.
+<div data-importer="socials" align="center">
+</div>
 
-## ❓ What I Don't Know
+###
 
-What I actually want to do with my life. But hey, neither does anyone else — they're just better at hiding it.
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=harxhtttt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/harxhtttt/harxhtttt/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 
-https://github.com/user-attachments/assets/f17dc9ef-b049-4814-8d94-5f33b9433c85
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harxhtttt/harxhtttt/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harxhtttt/harxhtttt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harxhtttt/harxhtttt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-## 📊 Track Record
-
-I write code that works about **70%** of the time.
-
-> That's a great success rate if you're a weather forecaster, and a mediocre one if you're a software developer.
-
-## 📬 Currently
-
-Accepting suggestions for what my "passion" might be.
-**DMs open. Expectations low.**
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-figuring_it_out-blueviolet?style=for-the-badge" />
-</p>
+###
