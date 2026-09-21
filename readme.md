@@ -18,8 +18,8 @@ Basically enough to build things — and enough to break them in creative new wa
 
 What I actually want to do with my life. But hey, neither does anyone else — they're just better at hiding it.
 
-https://github.com/user-attachments/assets/f17dc9ef-b049-4814-8d94-5f33b9433c85
 
+<video src="https://github.com/user-attachments/assets/f17dc9ef-b049-4814-8d94-5f33b9433c85" controls width="600"></video>
 
 ## 📊 Track Record
 
